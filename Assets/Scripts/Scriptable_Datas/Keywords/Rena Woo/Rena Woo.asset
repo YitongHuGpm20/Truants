@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447324a20666b484eba1197603b458e1, type: 3}
+  m_Name: Rena Woo
+  m_EditorClassIdentifier: 
+  Keyword: Rena Woo
+  current_Innertext: "Have you\r heard of\r Rena Woo?"
+  List_Of_Innertext:
+  - "Have you\r heard of\r Rena Woo?"
+  - "Have you\r heard of\r Rena Woo?"
+  - "Do you know\r Rena Woo or\r not?"
+  - "Do you know\r Rena Woo or\r not?"
+  - "Do you follow\r the.kwan.and.only\r on Bouquet?"
+  Current_Chats: {fileID: 11400000, guid: e60476e02df93cc42be3aa2a5f41a463, type: 2}
+  List_Of_Chats:
+  - {fileID: 11400000, guid: e60476e02df93cc42be3aa2a5f41a463, type: 2}
+  - {fileID: 11400000, guid: 255ae14bb3ac9db47b744bc72e6cbcec, type: 2}
+  - {fileID: 11400000, guid: 6594246b55b47ef49ba3eaa0a8d9f04d, type: 2}
+  - {fileID: 11400000, guid: 760f4dad89a8e954ebf7758209bae99b, type: 2}
+  - {fileID: 11400000, guid: 701b4f244181950429ce666b26c43fb1, type: 2}

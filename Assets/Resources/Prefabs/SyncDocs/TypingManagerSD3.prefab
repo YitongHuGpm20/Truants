@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7941557181148508636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 819839454833733718}
+  - component: {fileID: 7682958501685828324}
+  - component: {fileID: 1170526870}
+  m_Layer: 5
+  m_Name: TypingManagerSD3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &819839454833733718
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7941557181148508636}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &7682958501685828324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7941557181148508636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22406baef615a34283d031526d68992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  convIndex: 3
+  brovo: {fileID: 0}
+  lastSiblingCheck: {fileID: 0}
+  syncdocsweb: {fileID: 0}
+  scrollview: {fileID: 0}
+  scrollbar: {fileID: 0}
+  choices:
+  - {fileID: 0}
+  keywords: []
+  dialogText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  typingContent:
+  - Hey can I get an update? Did you talk to Kwan?
+  - "Hey, Tina. Yeah, I got in contact with him. He\u2019s willing to comply with
+    helping us."
+  - "That\u2019s amazing Scott, thank you! Finally some good news"
+  - "Well, hold on. It doesn\u2019t seem like he can help much."
+  - Did you tell him we need a map of the center?
+  - "I did. He said he couldn\u2019t get us a map, even if he wanted to. He doesn't
+    have the clearance to access their files."
+  - Well there has to be something he can do!
+  - "I don\u2019t know what to say, Tina. He said we\u2019d basically have to hack
+    the center\u2019s database to get it, and that\u2019s not something he can do."
+  - I might know a guy.
+  - What do you mean?
+  - "I know someone who can help us\u2026 help YOU hack into one of the center\u2019s
+    computers."
+  - Are you serious? You know someone who can hack their computers?
+  - "No, I\u2019m sorry but\u2026 this has gone too far."
+  - "Well, I guess we\u2019ve gotten this far right? Might as well give this guy a
+    shot."
+  - "There\u2019s a lot you don\u2019t know about me Scott\u2026 But I have no choice
+    now. He might be our only hope at this point"
+  - Who even is this guy?
+  - "NO! Scott please, you can\u2019t bail on me now!"
+  - "Tina, this is just too crazy! You\u2019re telling me to commit a crime against
+    some sort of crazy center in another country. Even if my job, my life, wasn\u2019t
+    on the line here, how do you expect me to persuade a person to do something like
+    that?"
+  - "Because I might DIE in here if he doesn\u2019t help me. And he\u2019ll help me
+    if he knows that.\r\nWhat about you Scott? Are you gonna let me die here?\r"
+  - "Alright, alright... you\u2019ve made your point. Just tell me who I need to talk
+    to."
+  - "Thank you Scott. You\u2019re really a good person\u2026 I knew I could rely on
+    you."
+  - "I\u2019d hope that anyone would be willing to do the same, in my position. So,
+    who am I contacting?"
+  - "I don\u2019t suppose you remember Alex Perry\u2026 do you?"
+  - "Please tell me you\u2019re not serious."
+  - "He\u2019s the only one who can help."
+  - "Tina, he hijacked our servers and forced our department to clean the enormous
+    mess he made. Do you know what they\u2019ll do to me if they find out I talked
+    to him?"
+  - "They\u2019ll fire you. This is a huge risk for you too, I get that. I wouldn\u2019t
+    be asking you to do this if it wasn\u2019t a matter of life or death."
+  - "I mean, what do I even tell this guy to convince him to help us? It\u2019s not
+    like I\u2019m telling him who I am. And aren\u2019t hackers usually private, paranoid
+    people?"
+  - 'Naw he''s chill. He answers almost anyone on Visager. I think he''ll help you
+    if you just say this:
+
+    "Knightmare needs your help, nachash."'
+  - "That\u2019s it? That\u2019s all I have to say?"
+  - "Mention the \u201Cprototype\u201D too. Tell him you need it."
+  - "Okay. I\u2019ll try finding him on Visage."
+  - "Scott, I\u2019m sorry for putting you through this. You don\u2019t know what
+    this means to me\u2026 Thank you so much."
+  - "Don\u2019t worry about it. Just stay safe for the time being."
+  - "Okay. I\u2019ll be waiting."
+  tinaIcon: {fileID: 0}
+  mainScrollView: {fileID: 0}
+  a4ScrollView: {fileID: 0}
+  textBoxSizeCalculator: {fileID: 0}
+  brovoScript: {fileID: 0}
+  updateText: {fileID: 0}
+--- !u!114 &1170526870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7941557181148508636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: Talk to Alex about the "prototype"
+  task_ID: 9
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0

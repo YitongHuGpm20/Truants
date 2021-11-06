@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447324a20666b484eba1197603b458e1, type: 3}
+  m_Name: the.kwan.and.only
+  m_EditorClassIdentifier: 
+  Keyword: the.kwan.and.only
+  current_Innertext: "I saw your profile\r on Bouquet. You\r take great\r pictures!"
+  List_Of_Innertext:
+  - "I saw your profile\r on Bouquet. You\r take great\r pictures!"
+  - "I saw your profile\r on Bouquet. You\r take great\r pictures!"
+  - "How about we\r talk about your\r affair with the\r guard, then?"
+  - Oh really? I "Mei" know more than you think, Kwan.
+  - "So, what's your secret for getting\r all those followers on Bouquet?"
+  - "Are you\r Alex Perry?"
+  Current_Chats: {fileID: 11400000, guid: 932584dbb93729441a6de8ceaa7ae322, type: 2}
+  List_Of_Chats:
+  - {fileID: 11400000, guid: 932584dbb93729441a6de8ceaa7ae322, type: 2}
+  - {fileID: 11400000, guid: 54be88e5f06721b4aac1d36a2c77a614, type: 2}
+  - {fileID: 11400000, guid: 8534630a5a135d048983e1f4a5f573d3, type: 2}
+  - {fileID: 11400000, guid: b92378fb91a173a499f5dcc1fadfab64, type: 2}
+  - {fileID: 11400000, guid: 096d867151f947d42aae721941d1c1cb, type: 2}
+  - {fileID: 11400000, guid: 9974fc78eb2e9c04b938ddde815f1066, type: 2}

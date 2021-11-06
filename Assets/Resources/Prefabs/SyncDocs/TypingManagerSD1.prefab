@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6463422301897099319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6463422301897099312}
+  - component: {fileID: 6463422301897099313}
+  - component: {fileID: 7062267944174013179}
+  - component: {fileID: 114526190141901554}
+  m_Layer: 5
+  m_Name: TypingManagerSD1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &6463422301897099312
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6463422301897099319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6463422301897099313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6463422301897099319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22406baef615a34283d031526d68992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  convIndex: 1
+  brovo: {fileID: 0}
+  lastSiblingCheck: {fileID: 0}
+  syncdocsweb: {fileID: 0}
+  scrollview: {fileID: 0}
+  scrollbar: {fileID: 0}
+  choices:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  keywords:
+  - {fileID: 0}
+  - {fileID: 0}
+  dialogText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  typingContent:
+  - 'Course Syllabus: GDD 200 - Software Development I
+
+
+    Instructor: Scott Bowers
+
+    Email: sbowers@scrumu.edu
+
+    Office: BAER 1192
+
+    Hours: Monday, Wednesday, Friday 6 PM
+
+
+    Course Description:
+
+    This course is intended to teach students the basics of designing, implementing,
+    testing, and debugging software programs. Students will be introduced to several
+    game development platforms, working with the C# and Java programm'
+  - Scott, is that you?
+  - "Who is this? How\u2019d you get into this document?"
+  - "It\u2019s Tina. Tina Knigh"
+  - "Tina? What is this, what\u2019s going on?"
+  - If you are really Tina, how can you prove it?
+  - "What is this, some kind of game to you? Whoever you are, this isn\u2019t funny."
+  - "Well it\u2019s kind of a long story"
+  - "Remember how you got me a coffee after I fell asleep during one of your classes?
+    You wrote on the cup, \u201C404: sleep not found\u201D"
+  - "Well, that\u2019s oddly specific. If you\u2019re really Tina, where have you
+    been these last couple months?"
+  - "You\u2019re right, this isn\u2019t funny at all. Has anyone reported me missing?"
+  - Tina Knigh is reported missing, yes.
+  - Okay Scott, I need you to listen to me...
+  - The week before school ended, I told you my parents and I were visiting my family
+    in Shincho. Do you remember?
+  - Vaguely, yes...
+  - "Okay, I know you won\u2019t believe me but... they put me in this place that\u2019s
+    like, a boot camp but also a hospital?"
+  - "Wait, what? What\u2019re you talking about?"
+  - "Look, I know it sounds crazy but my parents said I\u2019m addicted to video games.
+    They took me to this place that treats addicts or something"
+  - "So\u2026 like some sort of rehab?"
+  - Sure, if rehab was a place where you get beaten and brainwashed. This place is
+    a nightmare!
+  - "This is a lot to wrap my mind around. I don\u2019t fully understand what\u2019s
+    going on..."
+  - "If this is really Tina, we contacted your parents already. They haven\u2019t
+    responded to us."
+  - "If your parents really forced you into this center, shouldn\u2019t you have fought
+    back?"
+  - "Why haven\u2019t you replied to any of the emails we sent you?"
+  - "I bet they\u2019re still here waiting for me to finish treatment\u2026"
+  - "So, they\u2019re still in Shincho? That would explain a lot, actually."
+  - "Even if you talked to them, they\u2019d deny everything and say I dropped out.
+    But that\u2019s not true! I wouldn\u2019t do that!"
+  - I wanted to! But I think my parents drugged me
+  - "Your parents drugged you? That\u2019s a serious accusation, how do you know this?"
+  - Because everything about that day is fuzzy... I ate breakfast, got in the car,
+    and passed out. When I woke up, it was dark outside.
+  - "That must\u2019ve been hours! You don\u2019t remember anything about the car
+    ride?"
+  - "Nothing. The last thing I remember is being dragged out by guys in military clothes.
+    I wanted to run but my legs couldn\u2019t move."
+  - "This place is super anti-electronics. They wanted to take my phone, but I said
+    it was at home. Luckily, they didn\u2019t check my inner jacket pocket"
+  - "So, if you had it on you, why didn\u2019t you contact anyone before?"
+  - "My parents make me give them all my passwords... They can check anytime I try
+    to message or email someone. But I know they\u2019d never think to check SyncDocs "
+  - "Okay. Let\u2019s say that I believe that you\u2019re really Tina Knigh, and your
+    parents put you in this hospital. Where is this place located?"
+  - I have no idea
+  - "What do you mean? You don\u2019t know where you are?"
+  - "I was passed out when we drove here. And I can only speak Shinchanese, I can\u2019t
+    read it. Whenever I ask someone what this place is called, they either laugh or
+    hit me..."
+  - That sounds awful...
+  - "Scott, I need you to believe me\u2026 I need your help"
+  - "Alright, I believe you. But how can I help? You\u2019re on the other side of
+    the world!"
+  - "Sorry\u2026 this is just a lot to wrap my mind around."
+  - "This is just crazy. I don\u2019t know how you expected me to believe this, but
+    whatever this is\u2026 I\u2019m not going to be involved."
+  - "You\u2019re literally a lifesaver, thank you!!! I know being so far makes helping
+    tough. But even looking people up online could help me"
+  - "Trust me, I didn\u2019t know a place like this existed either. But you\u2019re
+    the only one who can help me right now"
+  - What do you need me to do?
+  - "Please, Scott, I don\u2019t know how much longer I can last in here! I can\u2019t
+    do this alone!"
+  - If you really need help, then find someone else. But obviously, your parents sent
+    you to this mental hospital for a reason. I suggest you open up to your treatment
+    and work towards getting better.
+  - If I die, my blood is on your hands. Will you be able to live with yourself when
+    that happens?
+  - "We\u2019re done here. Don\u2019t contact me ever again."
+  - "I can\u2019t believe I trusted you\u2026 Good-bye, Scott"
+  - "Everyone here goes by nicknames, so it\u2019s been hard to figure out who people
+    are. Sometimes I see this guy walking around with a nametag that says \u201CKwan\u201D"
+  - "That\u2019s not exactly a lot to go off of. Do you know anyone else?"
+  - "Oh! I do know the names of two girls in my dorm: Rena Woo and Joy Aun. Let me
+    know if you find anything out. I\u2019ll be waiting"
+  tinaIcon: {fileID: 0}
+  mainScrollView: {fileID: 0}
+  a4ScrollView: {fileID: 0}
+  textBoxSizeCalculator: {fileID: 0}
+  brovoScript: {fileID: 0}
+  updateText: {fileID: 0}
+--- !u!114 &7062267944174013179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6463422301897099319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: Find out anything you can about Rena Woo and Joy Aun
+  task_ID: 3
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0
+--- !u!114 &114526190141901554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6463422301897099319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: Find out anything you can about the mysterious employee, "Kwan"
+  task_ID: 17
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0

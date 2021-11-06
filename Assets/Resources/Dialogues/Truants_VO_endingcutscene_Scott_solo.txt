@@ -1,0 +1,88 @@
+<time/>000.250|<b>SCOTT:</b> Hello? Tina? Are you alright, did you make it in safe?
+<time/>004.242|<b>TINA:</b> Yeah, I'm in.
+<time/>006.330|<b>TINA:</b> There's a bunch of... empty crates in here.
+<time/>008.615|<b>SCOTT:</b> Perfect! You can hide in one of those.
+<time/>011.220|<b>TINA:</b> Scott, I don't think this is gonna work.
+<time/>013.090|<b>SCOTT:</b> I-it's your only shot now! Just...
+<time/>016.212|<b>SCOTT:</b> Get in, and stay quiet. I'm hanging up now.
+<time/>019.347|<b>TINA:</b> No no no, wait! Don't hang up!
+<time/>021.520|<b>SCOTT:</b> They are still looking for you. If they hear you talking to me...
+<time/>024.427|<b>TINA:</b> Scott, I'm really freaked out. I...
+<time/>027.781|<b>TINA:</b> I need you here right now, with me. Please.
+<time/>032.070|<b>SCOTT:</b> A-Alright, o-okay...
+<time/>033.500|<break/>
+<time/>035.110|<b>SCOTT:</b> Just take it easy.
+<time/>036.915|<b>SCOTT:</b> Go ahead and take a couple breaths.
+<time/>038.810|[BREATHING]
+<time/>044.650|<b>SCOTT:</b> Don't worry, I'm not gonna hang up. I'll stay on the line until you feel safe.
+<time/>050.600|<b>SCOTT:</b> Is that alright?
+<time/>052.187|<b>TINA:</b> Yeah, thanks... I'm sorry.
+<time/>056.270|<b>SCOTT:</b> Sorry? For what?
+<time/>058.300|<break/>
+<time/>060.400|<b>TINA:</b> I don't know, I just...
+<time/>062.740|<b>TINA:</b> I keep trying to tell myself that we did it. I'm safe, I'm getting out of here. But...
+<time/>068.075|<b>TINA:</b> Part of me knows that I can't lie anymore.
+<time/>070.550|<b>SCOTT:</b> But you aren't lying! You ARE getting out of there, they aren't gonna catch you.
+<time/>075.281|<b>SCOTT:</b> No one knows where you are right now, no one but me.
+<time/>079.600|<b>TINA:</b> But Scott...
+<time/>080.691|<b>TINA:</b> I'm in a wooden box in the back of a truck!
+<time/>083.694|<b>SCOTT:</b> Tina...
+<time/>084.166|<b>TINA:</b> Like, what is the plan here? Wait until they drive away? And then what?
+<time/>087.767|<b>SCOTT:</b> LOOK, I DON'T KNOW. OKAY?!
+<time/>090.400|<break/>
+<time/>095.107|<b>SCOTT:</b> I don't know yet.
+<time/>096.300|<break/>
+<time/>097.433|<b>SCOTT:</b> Okay, but w-we'll figure something out.
+<time/>100.887|<b>TINA:</b> Even... even IF I make it out of here...
+<time/>105.534|<b>TINA:</b> These kids, Scott... They'll still be trapped in here!
+<time/>110.151|<b>SCOTT:</b> I know... we can try to help them later. 
+<time/>113.843|<b>SCOTT:</b> But right now, we need to focus on getting you out of that center.
+<time/>117.427|<b>TINA:</b> But...
+<time/>118.525|<b>SCOTT:</b> Look, I know you want to help them. I do, too.
+<time/>121.700|<b>SCOTT:</b> But we won't be helping anyone if you get caught here.
+<time/>124.510|<b>TINA:</b> I...
+<time/>126.550|<b>TINA:</b> No, you're right.
+<time/>129.340|<b>TINA:</b> Okay, well... what now? Any ideas?
+<time/>133.200|<break/>
+<time/>135.275|<b>SCOTT:</b> Okay, that truck will leave the center at some point.
+<time/>138.856|<b>SCOTT:</b> When it does, just stay hidden and wait for it to stop moving again.
+<time/>142.886|<b>SCOTT:</b> Then, you can open up the doors and run as far as you can, as fast as you can.
+<time/>148.090|<b>SCOTT:</b> When you feel like you're in a safe spot, give me a call.
+<time/>151.353|<b>SCOTT:</b> We'll figure out a way to get you home. You can see your friends and your family...
+<time/>156.079|<b>SCOTT:</b> You can go back to living a normal life.
+<time/>158.400|<break/>
+<time/>159.250|<b>TINA:</b> ...Normal?
+<time/>160.768|<b>TINA:</b> NOTHING is NORMAL anymore!
+<time/>163.711|<b>TINA:</b> Do you think my friends would believe me if I told them I ran away from some...
+<time/>167.600|<b>TINA:</b> TORTURE BOOT CAMP in a foreign country? They'd think I'm crazy!
+<time/>171.27|<b>SCOTT:</b> W-well, what about-
+<time/>173.198|<b>TINA:</b> And home... that's a joke, right??
+<time/>176.547|<b>TINA:</b> My parents were the ones who put me through hell. They wouldn't think twice about sending me back!
+<time/>180.485|<b>SCOTT:</b> Tina, you can't be-
+<time/>181.704|<b>TINA:</b> No, Scott. FUCK. THEM!
+<time/>184.518|<b>TINA:</b> They put me in here on PURPOSE!
+<time/>186.735|<b>TINA:</b> It doesn't MATTER why they DID it, I don't CARE anymore.
+<time/>189.324|<b>TINA:</b> But I NEVER want to see them again, and YOU can't make me go BACK!
+<time/>192.615|<b>SCOTT:</b> TINA, you need to CALM DOWN! Someone's going to hear you!
+<time/>196.506|<b>TINA:</b> I'm...
+<time/>197.507|<b>TINA:</b> I'm sorry. I'm sorry, I...
+<time/>200.753|<b>TINA:</b> This is... something I've been wanting to say for a long time.
+<time/>204.554|<b>SCOTT:</b> Look, I know you're scared. I know you're angry, but...
+<time/>207.645|<b>SCOTT:</b> But y-you are a smart kid. Okay? A GOOD kid.
+<time/>212.588|<b>SCOTT:</b> I'm gonna help you get out of there, but you just... you have to trust me!
+<time/>217.681|<b>TINA:</b> Oh, shit!
+<time/>219.105|<b>SCOTT:</b> Tina? What's happening?
+<time/>221.415|[METAL DOOR SLIDING]
+<time/>224.000|<b>SCOTT:</b> Oh no...
+<time/>225.273|<b>SCOTT:</b> Tina, I'm right here, okay? Don't ha-
+<time/>227.771|<b>TINA:</b> No, NO! GET OFF ME, get off me!!!
+<time/>231.432|<b>SCOTT:</b> TINA! Tina, what happened??
+<time/>233.251|<b>TINA:</b> [SOBBING] NO!!!
+<time/>233.980|<b>SCOTT:</b> Are you there?? HELLO?!
+<time/>236.000|<break/>
+<time/>237.077|<b>SCOTT:</b> Please... Please, she's just a kid. Don't hurt he-
+<time/>240.350|<break/>
+<time/>240.966|[PHONE BEEP]
+<time/>241.404|<break/>
+<time/>241.846|[FRANTIC BREATHING]
+<time/>247.102|<break/>

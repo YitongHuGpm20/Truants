@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978971d566b00014f855e79b00d8db5c, type: 3}
+  m_Name: the_kwan.and.only_JamesChat3
+  m_EditorClassIdentifier: 
+  Belonging_Chat: James Kwan
+  Chat_Queue:
+  - Characters_Potraits: {fileID: 21300000, guid: 8f6430d1b8563a24ea8d63b74e444a7d,
+      type: 3}
+    Sentences: Oh really? I "Mei" know more than you think, Kwan.
+    Speaker_Name: Handsome Prince
+  - Characters_Potraits: {fileID: 21300000, guid: 3555dea2960070643bc43bab1a94546f,
+      type: 3}
+    Sentences: "God damnit...\r HOW DID YOU\r HACK MY\r BOUQUET"
+    Speaker_Name: James Kwan
+  - Characters_Potraits: {fileID: 21300000, guid: 3555dea2960070643bc43bab1a94546f,
+      type: 3}
+    Sentences: "You know what,\r I don't care. Just\r don't tell my wife\r about this"
+    Speaker_Name: James Kwan
+  - Characters_Potraits: {fileID: 21300000, guid: 3555dea2960070643bc43bab1a94546f,
+      type: 3}
+    Sentences: "You don't know\r what she'll do to\r me... I'll give you whatever
+      you want, please"
+    Speaker_Name: James Kwan
+  - Characters_Potraits: {fileID: 21300000, guid: 8f6430d1b8563a24ea8d63b74e444a7d,
+      type: 3}
+    Sentences: "If you tell me what\r I want to know, she\r doesn't ever have\r to
+      find out."
+    Speaker_Name: Handsome Prince

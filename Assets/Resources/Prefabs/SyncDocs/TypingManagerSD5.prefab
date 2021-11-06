@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2644306505547842123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2229139088259460489}
+  - component: {fileID: 1625458685111252992}
+  - component: {fileID: 75860856}
+  m_Layer: 5
+  m_Name: TypingManagerSD5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &2229139088259460489
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2644306505547842123}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1625458685111252992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2644306505547842123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22406baef615a34283d031526d68992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  convIndex: 5
+  brovo: {fileID: 0}
+  lastSiblingCheck: {fileID: 0}
+  syncdocsweb: {fileID: 0}
+  scrollview: {fileID: 0}
+  scrollbar: {fileID: 0}
+  choices: []
+  keywords: []
+  dialogText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  typingContent:
+  - Scott are you there??
+  - "I\u2019m here, Tina. Wow\u2026 you wouldn\u2019t believe what I found out about
+    what\u2019s going on at that center."
+  - You can tell me later, but we need to hurry. Did you find a map?
+  - "I was able to get the floor plan for the center, yes. I found the password for
+    the center\u2019s WiFi too. Maybe that\u2019ll be helpful?"
+  - "That\u2019s PERFECT! I really hope this works\u2026 Type this into xPloit: wftrack
+    5558181293"
+  tinaIcon: {fileID: 0}
+  mainScrollView: {fileID: 0}
+  a4ScrollView: {fileID: 0}
+  textBoxSizeCalculator: {fileID: 0}
+  brovoScript: {fileID: 0}
+  updateText: {fileID: 0}
+--- !u!114 &75860856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2644306505547842123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: 'Brief Tina on what you''ve discovered about the center '
+  task_ID: 15
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0

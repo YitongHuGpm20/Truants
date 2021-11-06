@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447324a20666b484eba1197603b458e1, type: 3}
+  m_Name: Bai Ning
+  m_EditorClassIdentifier: 
+  Keyword: Bai Ning
+  current_Innertext: "So, you and your\r wife work at the\r same place?"
+  List_Of_Innertext:
+  - "So, you and your\r wife work at the\r same place?"
+  - "So, you and your\r wife work at the\r same place?"
+  - "So, does your\r wife know you're\r sleeping with a\r security guard?"
+  - "Okay. I'm sure\r your wife would\r love to talk\r about it, then."
+  - "So, why doesn't\r your wife share\r your last name?"
+  - "Long shot, but\r do you know\r Bai Ning?"
+  Current_Chats: {fileID: 11400000, guid: 1f3f715eca55a9c4c87788953388fee5, type: 2}
+  List_Of_Chats:
+  - {fileID: 11400000, guid: 1f3f715eca55a9c4c87788953388fee5, type: 2}
+  - {fileID: 11400000, guid: 45b47c14b2370b947a30199d238360a2, type: 2}
+  - {fileID: 11400000, guid: be4f5bed1c1cdb149b1aa09f239c7e6c, type: 2}
+  - {fileID: 11400000, guid: 36fb61bc7636e2b4197d3121c41765b0, type: 2}
+  - {fileID: 11400000, guid: c7765c6669ac4f64ea69ed972c838fd4, type: 2}
+  - {fileID: 11400000, guid: c377d606eb8de014bbaadf1aa2c2923f, type: 2}

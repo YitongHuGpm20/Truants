@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4867383812099660598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4867383812099660597}
+  - component: {fileID: 4867383812099660596}
+  - component: {fileID: 4867383812099660603}
+  m_Layer: 5
+  m_Name: Content
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4867383812099660597
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4867383812099660598}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.0007294701, y: 0.0003495555}
+  m_SizeDelta: {x: 15.6, y: 849.4}
+  m_Pivot: {x: 0, y: 1}
+--- !u!114 &4867383812099660596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4867383812099660598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15e51d28704caa47a48f58e16569c70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  messengerText: {fileID: 683846813572066710, guid: d1c45e0ccb511be40b1bd7e1a0f34e6f,
+    type: 3}
+  messageText: {fileID: 0}
+  count: 0
+  continueButton: {fileID: 0}
+  weelaiyamaButton: {fileID: 0}
+  ImmaButton: {fileID: 0}
+  aggcalmButton: {fileID: 0}
+  joypursebutton: {fileID: 0}
+  JAPursebutton: {fileID: 0}
+  feedbackbutton: {fileID: 0}
+  one: {fileID: 3483195847309199278, guid: 08ad565a6138a4b4aa22788546939e3e, type: 3}
+  weelaiCount: 0
+  yamaCount: 0
+  joypurseCount: 0
+  chatwith: {fileID: 0}
+  sentences:
+  - "<color=red><b>Rena</b></color>: Uh... I dunno. They\r pay my salary?"
+  - "<color=red><b>Rena</b></color>: Honestly, I don't know much. They send me\r places
+    and pay me."
+  - '<color=red><b>Rena</b></color>: That''s pretty much it.'
+  - "<color=red><b>Rena</b></color>: Look, I told you. I don't know anything\r else,
+    okay?"
+  - "<color=red><b>Rena</b></color>: Uh... not gonna lie,\r I'm a bit creeped out."
+  - '<color=red><b>Rena</b></color>: But yea, I guess?'
+  - "<color=red><b>Rena</b></color>: Probably the best\r Japanese food in\r Lianyi."
+  - '<color=red><b>Rena</b></color>: Uhh, excuse me??'
+  - '<color=red><b>Rena</b></color>: First off, I don''t even know you. So back the
+    hell up'
+  - '<color=red><b>Rena</b></color>: Second, what makes you think I STOLE the purse??'
+  - '<color=blue><b>Scott</b></color>: It has Joy Aun''s initials stitched into the
+    side'
+  - '<color=red><b>Rena</b></color>: Uhh, I don''t even know who that is. That''s
+    just the brand.'
+  - '<color=red><b>Rena</b></color>: You have no proof. Keep making shit up and I''ll
+    block you. '
+  - "<color=red><b>Rena</b></color>: Lol okay. Bye \rasshole."
+  - "<color=blue><b>Scott</b></color>: Go ahead. Your boyfriend is \rgonna love hearing
+    \rabout your little \raffair with the doctor. "
+  - '<color=red><b>Rena</b></color>: ...what the hell'
+  - "<color=blue><b>Scott</b></color>: Or should I call him,\r the.kwan.and.only? "
+  - '<color=red><b>Rena</b></color>: WHO THE HELL IS THIS '
+  - "<color=red><b>Rena</b></color>: AND HOW THE\r FUCK DID YOU\r GET INTO MY\r IMMA"
+  - "<color=red><b>Rena</b></color>: You know what?\r Screw you, I'm\r calling the
+    police!! "
+  - "<color=red><b>Rena</b></color>: WHAT DID YOU\r CALL ME?! "
+  - "<color=blue><b>Scott</b></color>: Call the police, and\r I'll tell them that
+    you\r have a missing \rteen's purse "
+  - "<color=blue><b>Scott</b></color>: A teen that went\r missing on your watch "
+  - "<color=red><b>Rena</b></color>: That news hasn't even \rgone public yet...\rWho's
+    your source?! "
+  - "<color=blue><b>Scott</b></color>: It must've felt great \rwhen the hospital let
+    \ryou keep your job "
+  - "<color=blue><b>Scott</b></color>: Will Weelai be so\r kind when I tell them\r
+    how royally one of \rtheir guards fucked up? "
+  - '<color=red><b>Rena</b></color>: Omg'
+  - "<color=blue><b>Scott</b></color>: When you get out\r of jail in a few years,\r
+    I'm sure your mother\r will forgive you "
+  - "<color=blue><b>Scott</b></color>: If she's still alive,\r that is "
+  - '<color=red><b>Rena</b></color>: You''re a psychopath! '
+  - "<color=blue><b>Scott</b></color>: No, Rena.\r I'm your goddamn\r day of reckoning"
+  - "<color=red><b>Rena</b></color> Okay, chill out. I'm not\r calling the cops\r
+    anymore..."
+  - "<color=blue><b>Scott</b></color>: You better not be.\r Oh, and also... "
+  - "<color=blue><b>Scott</b></color>: If you don't want \ryour boyfriend to know
+    that you've been getting an \rextra dose of vitamin D \ron the side "
+  - "<color=blue><b>Scott</b></color>: You're gonna give me\r the information I'm\r
+    looking for"
+  - "<color=red><b>Rena</b></color>: You HACKED into my\r IMMA account, you\r fucking
+    prick!"
+  - "<color=blue><b>Scott</b></color>: Now who's the \rone making things \rup with
+    no proof?"
+  - "<color=blue><b>Scott</b></color>: ... it's you. The answer\r is you"
+  - "<color=red><b>Rena</b></color>: I bet the cops will\r have a different\r answer"
+  - "<color=blue><b>Scott</b></color>: Okay, just take a \rmoment and think \rabout
+    this"
+  - "<color=blue><b>Scott</b></color>: Even if someone did\r hack your IMMA\r account"
+  - "<color=blue><b>Scott</b></color>: Do you really think the\r police will respond
+    to\r such a small case?"
+  - "<color=red><b>Rena</b></color>: I mean... they should,\r right??"
+  - "<color=blue><b>Scott</b></color>: Meanwhile, I can\r easily show them how\r you
+    have a same\r custom purse"
+  - "<color=blue><b>Scott</b></color>: As a young girl who\r went missing from the\r
+    hospital you work at"
+  - "<color=red><b>Rena</b></color>: It's not the same one.\r You can't prove it,\r
+    it's mine!"
+  - "<color=blue><b>Scott</b></color>: I bet the cops will\r have a different\r answer."
+  - "<color=blue><b>Scott</b></color>: But they don't need to\r be brought into this. "
+  - "<color=blue><b>Scott</b></color>: I'm just asking for you\r to hear me out."
+  - "<color=blue><b>Scott</b></color>: You don't have to lose\r your job or your\r
+    boyfriend over this."
+  - '<color=red><b>Rena</b></color>: Okay'
+  - "<color=red><b>Rena</b></color>: Look, please... don't tell\r my boyfriend"
+  - "<color=red><b>Rena</b></color>: I was gonna break it off\r with him eventually,\r
+    but this would kill him"
+  - "<color=red><b>Rena</b></color>: I'll tell you anything\r you want to know,\r
+    just please don't\r tell him..."
+  - "<color=blue><b>Scott</b></color>: Then tell me what I\r want to know!"
+  - "<color=blue><b>Scott</b></color>: He doesn't need to \rknow. All I want \ris
+    answers."
+  - "<color=red><b>Rena</b></color>: I'm just a part-timer \rwho guards the front
+    \rdesk. I never\r even saw her"
+  - "<color=blue><b>Scott</b></color>: Cool story. Guess\r I'm telling your man the\r
+    bad news then"
+  - "<color=blue><b>Scott</b></color>: Shouldn't you see\r every patient who \rwalks
+    in, then?"
+  - "<color=red><b>Rena</b></color>: I'm telling\r the truth, honest! \rShe's just
+    another \r\nkid who ended up \rmissing!"
+  - "<color=blue><b>Scott</b></color>: ANOTHER kid?\r How many have \ryou guys lost?!"
+  - "<color=blue><b>Scott</b></color>: ... Another? There's\r more than one?"
+  - "<color=red><b>Rena</b></color>: Shit... okay, she's\r not the first one to\r
+    go missing."
+  - "<color=red><b>Rena</b></color>: We've had a few\r disappear in the\r last several
+    months."
+  - "<color=red><b>Rena</b></color>: But you didn't\r hear that \rfrom me..."
+  - "<color=red><b>Rena</b></color>: It was a gift from\r my boyfriend"
+  - "<color=blue><b>Scott</b></color>: I'm about to \rgive your \rboyfriend a gift
+    \rif you keep lying"
+  - "<color=blue><b>Scott</b></color>: Rena, a child is\r missing... please,\r tell
+    the truth"
+  - "<color=red><b>Rena</b></color>: Fine... I took the \rpurse. All the guards take
+    stuff from \rpatients!"
+  - "<color=blue><b>Scott</b></color>: How shocking. Terrible guards doing\r terrible
+    things..."
+  - "<color=blue><b>Scott</b></color>: Can you expand\r on that?"
+  - "<color=red><b>Rena</b></color>: Phones, jewelry,\r prescription pills...\rthey
+    make a\r\nfortune selling\r them online."
+  - "<color=red><b>Rena</b></color>: I just thought this\r purse was cute. It's \rnot
+    like she's really\r gonna miss it"
+  - "<color=red><b>Rena</b></color>: Some people don't\r even come get their\r stuff.
+    Why waste it?"
+  - "<color=red><b>Rena</b></color>: That's really all I know.\r Please..."
+  - "<color=blue><b>Scott</b></color>: If you stay silent,\r I stay silent.\r Simple
+    as that"
+  - "<color=blue><b>Scott</b></color>: But get on my bad side,\r and I'll ruin\r your
+    life. Got it?"
+  - "<color=red><b>Rena</b></color>: Fine. But just so you\r know"
+  - "<color=red><b>Rena</b></color>: You're gonna be sorry \ryou ever messed \rwith
+    me"
+  - "<color=blue><b>Scott</b></color>:  You don't have to worry. \rI won't tell anyone"
+  - "<color=blue><b>Scott</b></color>: But if I were you, I'd\r quit. You shouldn't\r
+    be mixed up in this\r shady business."
+  - "<color=red><b>Rena</b></color>: Shut up. If I ever hear\r from you again,\r I'll
+    make you regret it"
+  - '<color=red><b>Rena</b></color>: But hey'
+  - "<color=red><b>Rena</b></color>: I really do hope\r you end up finding\r that
+    girl"
+--- !u!114 &4867383812099660603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4867383812099660598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: -43
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 7
+  m_StartCorner: 3
+  m_StartAxis: 0
+  m_CellSize: {x: 1200, y: 100}
+  m_Spacing: {x: 29.7, y: 0}
+  m_Constraint: 1
+  m_ConstraintCount: 1

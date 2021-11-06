@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2820593675110336864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5368114573834569141}
+  - component: {fileID: 7090415223879703736}
+  - component: {fileID: 4778208180040789930}
+  m_Layer: 5
+  m_Name: TypingManagerSD2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &5368114573834569141
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820593675110336864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &7090415223879703736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820593675110336864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22406baef615a34283d031526d68992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  convIndex: 2
+  brovo: {fileID: 0}
+  lastSiblingCheck: {fileID: 0}
+  syncdocsweb: {fileID: 0}
+  scrollview: {fileID: 0}
+  scrollbar: {fileID: 0}
+  choices:
+  - {fileID: 0}
+  - {fileID: 0}
+  keywords: []
+  dialogText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  typingContent:
+  - SCOTT! Are you there?? Please answer me!!!
+  - "I\u2019m here, Tina! What\u2019s going on??"
+  - "I\u2019m sorry\u2026 I get scared thinking that you\u2019ll delete this document
+    because you think I\u2019m crazy. I don\u2019t want to be alone again"
+  - "Relax, Tina. I\u2019m not gonna do that. In fact, I think I found out where you\u2019re
+    at: Langxing Teenager Behavior Modification Center, in Langxing City."
+  - Behavior modification center? What the hell, so they ARE trying to brainwash us!
+  - "Like you said before, they treat kids who are addicted to electronics. But from
+    what I\u2019ve read, it sounds like there might be things going on there that
+    go beyond treatment."
+  - You have no idea... what kind of things did you read about this place?
+  - "It seems like they\u2019re very serious about physical education."
+  - They mentioned some sort of agricultural program.
+  - Education and rehabilitation were two things they referred to repeatedly.
+  - "Omg THAT is an understatement\u2026 they make us run and do push-ups until we
+    puke. And if we fall behind they hit us with sticks"
+  - I think I remember reading former soldiers were part of the staff there.
+  - "They make us dress in camo clothes and march every day. I have no idea what they\u2019re
+    saying, but they smack you with sticks if you don\u2019t do everything right..."
+  - These people sound like monsters...
+  - "Oh you mean the part of the day where they make us do hard labor in the fields?
+    Yeah that\u2019s my favorite"
+  - Hard labor?
+  - "Digging holes, picking up big rocks, hauling wheelbarrows of cow shit\u2026 apparently
+    it\u2019s teaching us discipline. My back hurts every day"
+  - Do they at least have decent health services? They mentioned that, too.
+  - "Does writing phrases like \u201Chard work and discipline are key\u201D and \u201Cthe
+    parent is always right\u201D on a chalkboard for hours count as education?"
+  - "I\u2019d have to say no, it doesn\u2019t."
+  - "Then I\u2019m learning nothing. Not that my teachers care, they hate that I can\u2019t
+    read the language. They either ignore me or slap me with rulers"
+  - "Wow\u2026 what about rehabilitation? Is that some sort of psychological treatment?"
+  - "Oh, don\u2019t get me started on health care here. All they do is give us pills
+    to take multiple times a day. I don't even know what they are"
+  - You have no idea? Have you been taking these pills?
+  - "Sometimes they forget to check if I swallow them. But I\u2019ve had to make myself
+    throw up a couple times"
+  - "That\u2019s probably for the best."
+  - "But the thing I hate most about this place...  is when they take kids in for
+    \u201Cspecial treatment\u201D"
+  - "What do you mean by \u201Cspecial treatment\u201D?"
+  - "\u201DSpecial treatment\u201D? You make it sound like they\u2019re experimenting
+    on children or something. I don\u2019t know if I believe that..."
+  - "I don\u2019t even know what to say. The way you describe things in there\u2026
+    It sounds like a nightmare."
+  - "I don\u2019t know actually. I just hear them crying when they\u2019re dragged
+    away, and the screams that come from the consultation rooms\u2026"
+  - "Oh my God, those poor kids\u2026"
+  - "Sometimes they take us at night. What if I\u2019m next? I have to get out of
+    here!"
+  - "Can\u2019t say for sure if they go that far. But I had a friend who was taken
+    in for special treatment yesterday. I haven\u2019t seen her since\u2026"
+  - Is that normal? What usually happens to the kids who are taken?
+  - "They usually come out, all shaky and quiet. I waited for her to come to lunch
+    but\u2026 she\u2019s gone, Scott. And I will be too, if I don\u2019t get out of
+    here!"
+  - "A nightmare that I can\u2019t seem to wake up from. Scott you have to get me
+    out of here\u2026"
+  - "I\u2019m working on that. Remember that staff member you told me about, Kwan?
+    Well, I got his full name. Turns out he does IT work for the center."
+  - "Do you think you could get him to give you a floor plan or something? I need
+    to know where I\u2019m going when I escape"
+  - "I can\u2019t imagine it\u2019ll be that easy. I\u2019ll need to figure out a
+    way to convince him to work with me"
+  - "He works for a boot camp where kids get tortured. I\u2019m sure he\u2019s hiding
+    some secrets you can hold against him somewhere"
+  - Are you suggesting that I blackmail him?
+  - "I\u2019m suggesting that you do whatever it takes to get that floor plan from
+    him. I can\u2019t stand being here any longer, please\u2026"
+  - "Okay, okay. I\u2019ll see what I can do. Hang in there, Tina."
+  - "I\u2019ll try, but please hurry"
+  tinaIcon: {fileID: 0}
+  mainScrollView: {fileID: 0}
+  a4ScrollView: {fileID: 0}
+  textBoxSizeCalculator: {fileID: 0}
+  brovoScript: {fileID: 0}
+  updateText: {fileID: 0}
+--- !u!114 &4778208180040789930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820593675110336864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: Contact Kwan
+  task_ID: 6
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0

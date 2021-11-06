@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978971d566b00014f855e79b00d8db5c, type: 3}
+  m_Name: Joy's Purse_Chat2
+  m_EditorClassIdentifier: 
+  Belonging_Chat: Rena Woo
+  Chat_Queue:
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "Why do you have\r Joy Aun's purse?"
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "It was a gift from\r my boyfriend"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "Rena, a child is\r missing... please,\r tell the truth."
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "Fine... I took the \rpurse. All the guards take stuff from \rpatients!"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: Elaborate.
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "Phones, jewelry,\r prescription pills...\r they make a\r fortune selling\r
+      them online"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "I just thought this\r purse was cute. It's \rnot like she's really\r
+      gonna miss it"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "Some people don't\r even come get their\r stuff. Why waste it?"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "That's really all I know.\r Please don't tell anyone what you know"
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "If you stay silent,\r I stay silent.\r Simple as that"
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "But if I were you, I'd\r quit. You're mixed up in something pretty
+      bad"
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "Shut up..\nIf I ever hear\r from you again,\r you'll regret it"
+    Speaker_Name: Rena Woo

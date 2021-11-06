@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - saves
+  - notfilled
+  - incorrect
+  - login
+  - loginpanel
+  - startscreen
+  - scroll
+  - mailcontent
+  - one
+  - survey
+  - stone
+  - free
+  - ty
+  - mailpanel
+  - mailLine
+  - mailWindow
+  - htxploit
+  - slidermessenger
+  - ScottText
+  - TinaText
+  - xmap
+  - scottVO
+  - tinaVO
+  - visageCreate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Second
+    uniqueID: 3936545717
+    locked: 0

@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2027179315700166717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2045974851740486578}
+  - component: {fileID: 7802194827186120682}
+  - component: {fileID: 8697346472417719350}
+  m_Layer: 5
+  m_Name: TypingManagerSD4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &2045974851740486578
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2027179315700166717}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &7802194827186120682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2027179315700166717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22406baef615a34283d031526d68992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  convIndex: 4
+  brovo: {fileID: 0}
+  lastSiblingCheck: {fileID: 0}
+  syncdocsweb: {fileID: 0}
+  scrollview: {fileID: 0}
+  scrollbar: {fileID: 0}
+  choices:
+  - {fileID: 0}
+  keywords:
+  - {fileID: 0}
+  dialogText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  typingContent:
+  - Any luck contacting Alex?
+  - "I still can\u2019t believe it, but it actually worked\u2026 What the heck is
+    this software, anyway?"
+  - "I call it xPloit. Long story short, it lets you access a computer\u2019s files
+    and download them"
+  - "So, were you\u2026 was this software involved in the incident last quarter?"
+  - I just want to point out once again how completely ILLEGAL this is.
+  - Sounds useful. How does it work?
+  - "I know what you\u2019re thinking. What he did last spring\u2026 I had nothing
+    to do with it."
+  - "I believe you. But this software\u2026 is it safe? Will they be able to trace
+    me?"
+  - "I know he fixed most of the bugs. But just to be safe, don\u2019t try to put
+    the wrong password in too many times. That could be bad"
+  - "Oh great\u2026 Wait, passwords? How does this thing even work?"
+  - "You don\u2019t have to keep pointing that out, you know"
+  - "But seriously, why do you even have this software? What\u2019s your connection
+    with him?"
+  - "Look, he was a mod on my gaming streams alright? He didn\u2019t like all these
+    pervy guys spamming my chat, so\u2026 he made xPloit to get back at them"
+  - "Obviously, it wasn\u2019t the only way he used it... But I digress, just tell
+    me how it works."
+  - "I mean I could give you a full explanation but I don\u2019t think we have time"
+  - "I don\u2019t need to know everything. But what am I looking for?"
+  - "So all you need to access a computer with xPloit is that person\u2019s IP address."
+  - "A program with that much power and usability\u2026 Do you realize how dangerous
+    this thing is, in the wrong hands?"
+  - "It\u2019s not as simple as you think\u2026 You can\u2019t just log into a computer
+    and download its files. They\u2019re protected by hashed passwords."
+  - Hashed passwords? Like, scrambling a password with an algorithm? Those are virtually
+    impossible to decipher!
+  - "Not if you have the algorithm. Computers have a registry file that holds the
+    password. You\u2019d never be able to figure what it really is on your own. But
+    xPloit has a command that produces algorithms that are most likely to help you
+    figure it out."
+  - "Wait, so this tool doesn\u2019t tell you what the password to the computer is\u2026
+    but it creates a key that can help you unlock it?"
+  - Exactly!
+  - "I don\u2019t even know what to say. That\u2019s incredible, but also terrifying."
+  - "You can download the computer\u2019s files when you have its password. That\u2019s
+    it. But if you want xPloit to work, you need to get Kwan to give you an IP address
+    first."
+  - "Don\u2019t worry. I\u2019ll get one from him."
+  - "Please hurry Scott. I don\u2019t have much time left tonight."
+  tinaIcon: {fileID: 0}
+  mainScrollView: {fileID: 0}
+  a4ScrollView: {fileID: 0}
+  textBoxSizeCalculator: {fileID: 0}
+  brovoScript: {fileID: 0}
+  updateText: {fileID: 0}
+--- !u!114 &8697346472417719350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2027179315700166717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3a840df7c9dec48929b673bc05df7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  is_Finished: 0
+  reference_Obj: {fileID: 0}
+  task_Description: 'Ask Kwan for an IP address '
+  task_ID: 11
+  finished_Counter: 0
+  mission_Counter: 1
+  awake_Add: 0

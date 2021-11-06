@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447324a20666b484eba1197603b458e1, type: 3}
+  m_Name: Rena Woo
+  m_EditorClassIdentifier: 
+  Keyword: Rena Woo
+  current_Innertext: Are you Rena Woo?
+  List_Of_Innertext:
+  - Are you Rena Woo?
+  - "You're hiding\r something, Rena.\r I know you are."
+  - "What's your job\r at the hospital?"
+  Current_Chats: {fileID: 11400000, guid: ddba07cc0b312cc4e86cdd3c9f623887, type: 2}
+  List_Of_Chats:
+  - {fileID: 11400000, guid: ddba07cc0b312cc4e86cdd3c9f623887, type: 2}
+  - {fileID: 11400000, guid: 53b87aa3baf21e94ea4ea78a23afbf3f, type: 2}
+  - {fileID: 11400000, guid: 548db165217329a4b99dfcf9ebc8d2eb, type: 2}

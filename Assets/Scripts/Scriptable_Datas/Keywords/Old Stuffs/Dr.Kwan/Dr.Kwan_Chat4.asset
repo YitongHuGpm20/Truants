@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978971d566b00014f855e79b00d8db5c, type: 3}
+  m_Name: Dr.Kwan_Chat4
+  m_EditorClassIdentifier: 
+  Belonging_Chat: Rena Woo
+  Chat_Queue:
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "What can you\r tell me about Dr.\r Kwan?"
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "I just started\r talking to him a\r few weeks ago.."
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: ed76485a5d2200443912972aaf09cd2a,
+      type: 3}
+    Sentences: "You don't know\r anything about\r what he does at\r the hospital?"
+    Speaker_Name: Scott Bowers
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: I don't. I prefer no strings attached with my side guys
+    Speaker_Name: Rena Woo
+  - Characters_Potraits: {fileID: 21300000, guid: d1463b911055d304c902cbd584d64a19,
+      type: 3}
+    Sentences: "All I know is that\r he usually works in\r the operating room\r upstairs"
+    Speaker_Name: Rena Woo

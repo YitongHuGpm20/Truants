@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c3b158c1188f44995e22e2fed60d60, type: 3}
+  m_Name: test2
+  m_EditorClassIdentifier: 
+  account_Name: Nick
+  like_Number: 9721
+  post_Content: Wish you have a wonderful day!
+  picture_Content: {fileID: 21300000, guid: a5f19ba82e7464f4ba001a98f1655845, type: 3}

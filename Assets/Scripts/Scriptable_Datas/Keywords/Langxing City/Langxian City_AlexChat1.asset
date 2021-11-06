@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 978971d566b00014f855e79b00d8db5c, type: 3}
+  m_Name: Langxian City_AlexChat1
+  m_EditorClassIdentifier: 
+  Belonging_Chat: Alex Perry
+  Chat_Queue:
+  - Characters_Potraits: {fileID: 21300000, guid: 8f6430d1b8563a24ea8d63b74e444a7d,
+      type: 3}
+    Sentences: "Ever been to\r Langxing City?"
+    Speaker_Name: Handsome Prince
+  - Characters_Potraits: {fileID: 21300000, guid: f12e3726a0bff8741abf284d19664e2b,
+      type: 3}
+    Sentences: wtf no lol
+    Speaker_Name: Alex Perry

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447324a20666b484eba1197603b458e1, type: 3}
+  m_Name: Alex Perry
+  m_EditorClassIdentifier: 
+  Keyword: Alex Perry
+  current_Innertext: I don't expect  you to know  someone named  Alex Perry
+  List_Of_Innertext:
+  - "I don't expect\r you to know\r someone named\r Alex Perry"
+  - "So... do you \r know an\r Alex Perry?"
+  - "Are you\r Alex Perry?"
+  Current_Chats: {fileID: 11400000, guid: e0412e8810627a34e930891cee9ac420, type: 2}
+  List_Of_Chats:
+  - {fileID: 11400000, guid: e0412e8810627a34e930891cee9ac420, type: 2}
+  - {fileID: 11400000, guid: 7685f51e8078cc548826af915af125d0, type: 2}
+  - {fileID: 11400000, guid: 323d11eceda330240a942e273e534862, type: 2}
